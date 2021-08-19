@@ -1,3 +1,4 @@
 .envrc
 *.db
-logs/*
+logs/**
+__pycache__/
