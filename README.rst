@@ -1,5 +1,5 @@
 blog for this tutorial https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-viii-followers
-page todo -> 11
+page todo -> 13
 
 How to run the application:
 
